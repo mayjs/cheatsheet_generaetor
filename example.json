@@ -1,0 +1,15 @@
+{
+    "title": "Global title",
+    "sections": [
+        {
+            "title": "Section title",
+	    "content": [
+		    {"type": "text",
+		    "text": "Test-Text"},
+		    {"type": "shortcut",
+		    "shortcut": "h,j,k,l",
+		    "desc": "left, down, up, right"}
+	    ]
+        }
+    ]
+}
